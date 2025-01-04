@@ -1,16 +1,9 @@
-# face_recognition
+# Face Recognition AI Project
+Welcome to the Face Recognition AI Project repository! This project is designed to implement a face recognition system that identifies and verifies individuals based on their facial features. You can upload or take a photo of our team  members and it will identify them and return their name.
 
-A new Flutter project.
+## Features
+- **Face Detection**: Locate faces in images.
+- **Face Recognition**: Identify or verify individuals from a dataset.
+- **Dataset Augmentation**: Enhance training data with affine transformations.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
